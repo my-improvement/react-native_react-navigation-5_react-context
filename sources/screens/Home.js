@@ -44,7 +44,7 @@ export function HomeScreen(props) {
 					marginTop: 100
 				}}
 			>
-				Context API's global contextData test using number
+				Context API's global data test using number
 			</Text>
 
 			<DataContext.Consumer>

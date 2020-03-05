@@ -6,12 +6,9 @@ export default function() {
 
 	const { StackNavigator } = require('./navigators/StackNavigator')
 
-
 	const [number, setNumber] = useState(0)
-
 	
 	const { DataContext } = require('./refs/contexts')
-
 
 	return (
 		<NavigationContainer>

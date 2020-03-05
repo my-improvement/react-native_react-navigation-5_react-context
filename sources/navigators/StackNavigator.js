@@ -23,7 +23,7 @@ export function StackNavigator() {
 				component = {SecondScreen}
 				name = "Second"
 				options = {{
-					// ...TransitionPresets.ScaleFromCenterAndroid //Transisi bisa ditentukan per screen
+					//...TransitionPresets.SlideFromRightIOS //Transisi bisa ditentukan per screen
 				}}
 			/>
 		</Stack.Navigator>
