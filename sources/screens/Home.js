@@ -1,6 +1,6 @@
 export function HomeScreen(props) {
 	const React = require('react')
-	
+
 	const { Text, TouchableOpacity, View } = require('react-native')
 
 	return (
